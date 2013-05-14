@@ -1,0 +1,27 @@
+Partlist exported from /Users/jacobrosenthal/Documents/Boards/haptic-controller/controller.sch at 5/13/13 10:11 PM
+
+Qty Value             Device            Parts                     P/N
+2                     LEDCHIPLED_0805   RX, TX                    160-1413-1-ND
+1                     SWITCH-SPSTPTH    S2                        CKC5123-ND
+6   0.1uF             CAP0805           C1, C3, C5, C6, C8, C12   
+3   1.0uF             CAP0805           C2, C9, C10               
+1   4.7uF             CAP_POL1206       C4                        399-8290-1-ND
+1   2.2uF             CAP0805           C7                        
+5   1.5k              RESISTOR0805-RES  R1, R2, R6, R7, R9        
+2   220               RESISTOR0805-RES  R3, R5                    
+1   10k               RESISTOR0805-RES  R4                        
+1   100k              RESISTOR0805-RES  R8                        
+2   74LVC1G125DCK     74LVC1G125DCK     IC3, IC4                  296-11604-1-ND
+1   500mA             PTCSMD            F1                        283-3140-1-ND
+1   ATMEGA168/328     ATMEGA168/328     IC2                       ATMEGA328-AU-ND
+1   AVR_SPI_PRG_6PTH  AVR_SPI_PRG_6PTH  U$4                       609-3218-ND
+1   BLUETOOTH-RN41"   BLUETOOTH-RN41"   U$3                       740-1043-ND
+1   CSTCE8M00G55Z     RESONATORSMD      U$1                       490-1219-1-ND
+1   FT232RLSSOP       FT232RLSSOP       IC1                       768-1007-1-ND
+2   LED-DUALCOLOR     LED-DUALCOLOR     U$6, U$7                  475-2493-1-ND
+2   M01SMD            M01SMD            JP1, JP2                  3.7V Lion Battery
+1   MAX1555           MAX1555           U1                        MAX1555EZK+TCT-ND
+1   MIC5205-3.3       V_REG_LDOSMD      V1                        576-1259-1-ND
+1   S4B-ZR-SM4A-TF    S4B-ZR-SM4A-TF    U$2                       455-1695-1-ND
+1   SOLDERJUMPERTRACE SOLDERJUMPERTRACE SJ1                       Nothing to populate
+1   USBMICROB         USBMICROB         X1                        ED2992CT-ND
