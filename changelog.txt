@@ -1,0 +1,23 @@
+Haptic Controller
+
+v.05
+optional pull ups on scl and sda
+added some caps to regulator lion charger, ftdi, and put cap on reset line
+removed one bus connectors
+ftdi didn't work-corrected hopefully
+added 0805 leds on ftdi, others were impossible to solder
+all passive components changed to 0805s
+removed bluetooth transistor power switch, just regulated 3.3v always
+moved fuse to usb so can pull more than 500ma from battery, will have to rely on over discharge protection in a battery protection circuit? or add another fuse some day
+swap switch, old could only do 100ma, should be 1amps to match connectors
+made pads on bus connector posts grounds. Hopefully stronger and passes ground around the circuit better
+current limiting resistor on bcon line to micro
+added 74LVC1G125 to bluetooth/ftdi lines so they share bus better
+
+v.04 true initial release
+
+v.03 printed and tested, changes untracked
+
+v.02 version given for a publication shot, possibly changed slightly and accidentally printed
+
+v.01 never printed
