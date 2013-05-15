@@ -3,14 +3,14 @@ Partlist exported from /Users/jacobrosenthal/Documents/Boards/haptic-controller/
 Qty Value             Device            Parts                     P/N
 2                     LEDCHIPLED_0805   RX, TX                    160-1413-1-ND
 1                     SWITCH-SPSTPTH    S2                        CKC5123-ND
-6   0.1uF             CAP0805           C1, C3, C5, C6, C8, C12   
-3   1.0uF             CAP0805           C2, C9, C10               
+6   0.1uF             CAP0805           C1, C3, C5, C6, C8, C12   399-1170-1-ND
+3   1.0uF             CAP0805           C2, C9, C10               399-1284-1-ND
 1   4.7uF             CAP_POL1206       C4                        399-8290-1-ND
-1   2.2uF             CAP0805           C7                        
-5   1.5k              RESISTOR0805-RES  R1, R2, R6, R7, R9        
-2   220               RESISTOR0805-RES  R3, R5                    
-1   10k               RESISTOR0805-RES  R4                        
-1   100k              RESISTOR0805-RES  R8                        
+1   2.2uF             CAP0805           C7                        399-3522-1-ND
+5   1.5k              RESISTOR0805-RES  R1, R2, R6, R7, R9        P1.5KACT-ND
+2   220               RESISTOR0805-RES  R3, R5                    P220ACT-ND
+1   10k               RESISTOR0805-RES  R4                        P10KACT-ND
+1   100k              RESISTOR0805-RES  R8                        P100KACT-ND
 2   74LVC1G125DCK     74LVC1G125DCK     IC3, IC4                  296-11604-1-ND
 1   500mA             PTCSMD            F1                        283-3140-1-ND
 1   ATMEGA168/328     ATMEGA168/328     IC2                       ATMEGA328-AU-ND
